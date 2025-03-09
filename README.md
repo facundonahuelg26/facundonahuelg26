@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Facundo Gutierrez</h1>
-<h3 align="center">Frontend Developer de Argentina</h3>
+<h3 align="center">Desarrollador de Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://blog-portfolio-1.vercel.app/](https://blog-portfolio-1.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React Js**
+- 💬 Ask me about **Desarrollo Frontend / Backend 🚀
+Desarrollo aplicaciones con React, Next.js, Astro, Node.js y GraphQL, implementando diseño responsive, gestión de estado (Redux) y control de versiones (Git).**
 
 - 📫 How to reach me **facundonahuelg26@gmail.com**
 
